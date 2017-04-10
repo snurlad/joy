@@ -4,16 +4,16 @@
         <div>
             <div class="col-md-8 col-md-offset-2">
                 <div class="col-md-3">
-                    <button type="button" class="width-100 btn btn-success btn-settings">Добавить пост</button>
+                    <button type="button" class="width-100 btn btn-success">добавить пост</button>
                 </div>
                 <div class="col-md-3">
-                    <button type="button" class="width-100 btn btn-success btn-settings">Настройки</button>
+                    <button type="button" class="width-100 btn btn-success">паспортные данные</button>
                 </div>
                 <div class="col-md-3">
-                    <button type="button" class="width-100 btn btn-success btn-settings">Сменить пароль</button>
+                    <button type="button" class="width-100 btn btn-success">сменить пароль</button>
                 </div>
                 <div class="col-md-3">
-                    <button type="button" class="width-100 btn btn-success btn-settings">Уведомления</button>
+                    <button type="button" class="width-100 btn btn-success">уведомления</button>
                 </div>
             </div>
         </div>
@@ -23,7 +23,7 @@
         <div class="col-md-4">
             <img ng-src="{{vm.userDetails.ProfilePhoto}}" class="img-responsive img-rounded">
             <div class="col-md-12 text-center">
-                <a class="add-pictures" href="#">Добавить картинку</a>
+                <a class="add-pictures" href="#">Изменить картинку</a>
             </div>
         </div>
         <!--<div class="form-group  col-md-4 col-md-offset-1">
@@ -32,27 +32,19 @@
                 
             </button>
         </div>-->
-        <div class="form-add-post">
-            <div class="col-md-2">
-                <p class="add-post text-right">Теги</p>
-            </div>
 
-            <div class="col-md-6">
+
+        <div class="col-md-6">
+            <div>
+                <p class="add-post">сообщение</p>
                 <input type="text" class="add-post form-control">
             </div>
-         </div>
-
-         <div class="form-add-post">
-                <div class="col-md-2">
-                    <p class="add-post text-right">Сообщение</p>
-                </div>
-
-                <div class="col-md-6">
-                    <input type="text" class="add-post form-control">
-                </div>
+            <div>
+                <p class="add-post">тэги</p>
+                <input type="text" class="add-post form-control">
             </div>
-      
-</form>
+        </div>
+    </form>
 
 </div>
 

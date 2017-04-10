@@ -1,0 +1,5 @@
+D:\C sharp projects\joyTest\joyEgine\DiplomAPI\Joy.Database\bin\Debug\Joy.Database.dacpac
+D:\C sharp projects\joyTest\joyEgine\DiplomAPI\Joy.Database\obj\Debug\Joy.Database.dll
+D:\C sharp projects\joyTest\joyEgine\DiplomAPI\Joy.Database\obj\Debug\Joy.Database.pdb
+D:\C sharp projects\joyTest\joyEgine\DiplomAPI\Joy.Database\bin\Debug\Joy.Database.dll
+D:\C sharp projects\joyTest\joyEgine\DiplomAPI\Joy.Database\bin\Debug\Joy.Database.pdb

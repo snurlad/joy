@@ -4,7 +4,7 @@
     module.controller('NavbarController', navbarController);
     function navbarController() {
         var vm = this;
-        vm.tags = [ "Спорт", "Кухня", "Юмор", "Отдых" ];
+        vm.tags = [ "Sport", "Kitchen", "Humor", "Relax" ];
     }
 })();
 

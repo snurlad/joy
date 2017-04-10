@@ -1,16 +1,11 @@
-/*header*/
-.my-header-menu{
-    border-color:#ffffff;
-    background-color:#ffffff;
-}
+е/*header*/
 .logo{
-  width: 180px;
- 
+  width: 130px;
+  padding-top: 14px;
 }
-.my-bar-list{
-    font-size:14px;
-    height: 90px;
-    line-height: 90px;
+nav{
+    height: 94px;
+    line-height: 94px;
 }
 .menu{
   list-style-type: none;
@@ -29,10 +24,6 @@
   text-decoration: none;
   color: #45a69a;
 }
-
-.form-search{
-    margin-top:20px;
-}
 .top_line{
   height: 1px;
   background-color: #45a69a;
@@ -49,31 +40,6 @@
   color: #255953;
   text-align: center;
 }
-.img-post {
-}
- /*Authorization*/
-.style-btn{
-background-color: #d9f2ef;
+.img-post{
 
-          }
-.style-btn hover{
-    background-color:#9fdfd7;
 }
- /*User page*/ 
-.btn-settings{
-  background-color:#45a69a;  
-  border-color:#45a69a;
-}
-
-.form-add-post{
-    padding-top:35px;
-  
-}
-.add-pictures {
-  color: #255953;
-}
-.add-pictures a:hover,
-.add-pictures a:focus {
-        text-decoration: none;
-        color: #45a69a;
-    }

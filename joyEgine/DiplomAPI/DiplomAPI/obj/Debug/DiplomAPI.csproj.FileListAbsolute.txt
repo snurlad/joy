@@ -57,62 +57,62 @@ D:\C sharp projects\joyEgine\DiplomAPI\DiplomAPI\bin\Antlr3.Runtime.pdb
 D:\C sharp projects\joyEgine\DiplomAPI\DiplomAPI\obj\Debug\DiplomAPI.csprojResolveAssemblyReference.cache
 D:\C sharp projects\joyEgine\DiplomAPI\DiplomAPI\obj\Debug\DiplomAPI.dll
 D:\C sharp projects\joyEgine\DiplomAPI\DiplomAPI\obj\Debug\DiplomAPI.pdb
-G:\joyEgine\DiplomAPI\DiplomAPI\bin\ApplicationInsights.config
-G:\joyEgine\DiplomAPI\DiplomAPI\bin\roslyn\csc.exe
-G:\joyEgine\DiplomAPI\DiplomAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-G:\joyEgine\DiplomAPI\DiplomAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-G:\joyEgine\DiplomAPI\DiplomAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
-G:\joyEgine\DiplomAPI\DiplomAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
-G:\joyEgine\DiplomAPI\DiplomAPI\bin\roslyn\Microsoft.CSharp.Core.targets
-G:\joyEgine\DiplomAPI\DiplomAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
-G:\joyEgine\DiplomAPI\DiplomAPI\bin\roslyn\System.Collections.Immutable.dll
-G:\joyEgine\DiplomAPI\DiplomAPI\bin\roslyn\System.Reflection.Metadata.dll
-G:\joyEgine\DiplomAPI\DiplomAPI\bin\roslyn\vbc.exe
-G:\joyEgine\DiplomAPI\DiplomAPI\bin\roslyn\VBCSCompiler.exe
-G:\joyEgine\DiplomAPI\DiplomAPI\bin\roslyn\VBCSCompiler.exe.config
-G:\joyEgine\DiplomAPI\DiplomAPI\bin\DiplomAPI.dll.config
-G:\joyEgine\DiplomAPI\DiplomAPI\bin\DiplomAPI.dll
-G:\joyEgine\DiplomAPI\DiplomAPI\bin\DiplomAPI.pdb
-G:\joyEgine\DiplomAPI\DiplomAPI\bin\Antlr3.Runtime.dll
-G:\joyEgine\DiplomAPI\DiplomAPI\bin\Microsoft.AI.Agent.Intercept.dll
-G:\joyEgine\DiplomAPI\DiplomAPI\bin\Microsoft.AI.DependencyCollector.dll
-G:\joyEgine\DiplomAPI\DiplomAPI\bin\Microsoft.AI.PerfCounterCollector.dll
-G:\joyEgine\DiplomAPI\DiplomAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
-G:\joyEgine\DiplomAPI\DiplomAPI\bin\Microsoft.AI.Web.dll
-G:\joyEgine\DiplomAPI\DiplomAPI\bin\Microsoft.AI.WindowsServer.dll
-G:\joyEgine\DiplomAPI\DiplomAPI\bin\Microsoft.ApplicationInsights.dll
-G:\joyEgine\DiplomAPI\DiplomAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-G:\joyEgine\DiplomAPI\DiplomAPI\bin\Microsoft.Web.Infrastructure.dll
-G:\joyEgine\DiplomAPI\DiplomAPI\bin\Newtonsoft.Json.dll
-G:\joyEgine\DiplomAPI\DiplomAPI\bin\System.Net.Http.Formatting.dll
-G:\joyEgine\DiplomAPI\DiplomAPI\bin\System.Web.Helpers.dll
-G:\joyEgine\DiplomAPI\DiplomAPI\bin\System.Web.Http.dll
-G:\joyEgine\DiplomAPI\DiplomAPI\bin\System.Web.Http.WebHost.dll
-G:\joyEgine\DiplomAPI\DiplomAPI\bin\System.Web.Mvc.dll
-G:\joyEgine\DiplomAPI\DiplomAPI\bin\System.Web.Optimization.dll
-G:\joyEgine\DiplomAPI\DiplomAPI\bin\System.Web.Razor.dll
-G:\joyEgine\DiplomAPI\DiplomAPI\bin\System.Web.WebPages.Deployment.dll
-G:\joyEgine\DiplomAPI\DiplomAPI\bin\System.Web.WebPages.dll
-G:\joyEgine\DiplomAPI\DiplomAPI\bin\System.Web.WebPages.Razor.dll
-G:\joyEgine\DiplomAPI\DiplomAPI\bin\WebGrease.dll
-G:\joyEgine\DiplomAPI\DiplomAPI\bin\Microsoft.AI.DependencyCollector.xml
-G:\joyEgine\DiplomAPI\DiplomAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
-G:\joyEgine\DiplomAPI\DiplomAPI\bin\Microsoft.AI.Web.xml
-G:\joyEgine\DiplomAPI\DiplomAPI\bin\Microsoft.AI.WindowsServer.xml
-G:\joyEgine\DiplomAPI\DiplomAPI\bin\Microsoft.ApplicationInsights.xml
-G:\joyEgine\DiplomAPI\DiplomAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-G:\joyEgine\DiplomAPI\DiplomAPI\bin\Newtonsoft.Json.xml
-G:\joyEgine\DiplomAPI\DiplomAPI\bin\System.Net.Http.Formatting.xml
-G:\joyEgine\DiplomAPI\DiplomAPI\bin\System.Web.Helpers.xml
-G:\joyEgine\DiplomAPI\DiplomAPI\bin\System.Web.Http.xml
-G:\joyEgine\DiplomAPI\DiplomAPI\bin\System.Web.Http.WebHost.xml
-G:\joyEgine\DiplomAPI\DiplomAPI\bin\System.Web.Mvc.xml
-G:\joyEgine\DiplomAPI\DiplomAPI\bin\System.Web.Optimization.xml
-G:\joyEgine\DiplomAPI\DiplomAPI\bin\System.Web.Razor.xml
-G:\joyEgine\DiplomAPI\DiplomAPI\bin\System.Web.WebPages.xml
-G:\joyEgine\DiplomAPI\DiplomAPI\bin\System.Web.WebPages.Deployment.xml
-G:\joyEgine\DiplomAPI\DiplomAPI\bin\System.Web.WebPages.Razor.xml
-G:\joyEgine\DiplomAPI\DiplomAPI\bin\Antlr3.Runtime.pdb
-G:\joyEgine\DiplomAPI\DiplomAPI\obj\Debug\DiplomAPI.csprojResolveAssemblyReference.cache
-G:\joyEgine\DiplomAPI\DiplomAPI\obj\Debug\DiplomAPI.dll
-G:\joyEgine\DiplomAPI\DiplomAPI\obj\Debug\DiplomAPI.pdb
+D:\C sharp projects\joyTest\joyEgine\DiplomAPI\DiplomAPI\bin\ApplicationInsights.config
+D:\C sharp projects\joyTest\joyEgine\DiplomAPI\DiplomAPI\bin\roslyn\csc.exe
+D:\C sharp projects\joyTest\joyEgine\DiplomAPI\DiplomAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\C sharp projects\joyTest\joyEgine\DiplomAPI\DiplomAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\C sharp projects\joyTest\joyEgine\DiplomAPI\DiplomAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\C sharp projects\joyTest\joyEgine\DiplomAPI\DiplomAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\C sharp projects\joyTest\joyEgine\DiplomAPI\DiplomAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\C sharp projects\joyTest\joyEgine\DiplomAPI\DiplomAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\C sharp projects\joyTest\joyEgine\DiplomAPI\DiplomAPI\bin\roslyn\System.Collections.Immutable.dll
+D:\C sharp projects\joyTest\joyEgine\DiplomAPI\DiplomAPI\bin\roslyn\System.Reflection.Metadata.dll
+D:\C sharp projects\joyTest\joyEgine\DiplomAPI\DiplomAPI\bin\roslyn\vbc.exe
+D:\C sharp projects\joyTest\joyEgine\DiplomAPI\DiplomAPI\bin\roslyn\VBCSCompiler.exe
+D:\C sharp projects\joyTest\joyEgine\DiplomAPI\DiplomAPI\bin\roslyn\VBCSCompiler.exe.config
+D:\C sharp projects\joyTest\joyEgine\DiplomAPI\DiplomAPI\bin\DiplomAPI.dll.config
+D:\C sharp projects\joyTest\joyEgine\DiplomAPI\DiplomAPI\bin\DiplomAPI.dll
+D:\C sharp projects\joyTest\joyEgine\DiplomAPI\DiplomAPI\bin\DiplomAPI.pdb
+D:\C sharp projects\joyTest\joyEgine\DiplomAPI\DiplomAPI\bin\Antlr3.Runtime.dll
+D:\C sharp projects\joyTest\joyEgine\DiplomAPI\DiplomAPI\bin\Microsoft.AI.Agent.Intercept.dll
+D:\C sharp projects\joyTest\joyEgine\DiplomAPI\DiplomAPI\bin\Microsoft.AI.DependencyCollector.dll
+D:\C sharp projects\joyTest\joyEgine\DiplomAPI\DiplomAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\C sharp projects\joyTest\joyEgine\DiplomAPI\DiplomAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\C sharp projects\joyTest\joyEgine\DiplomAPI\DiplomAPI\bin\Microsoft.AI.Web.dll
+D:\C sharp projects\joyTest\joyEgine\DiplomAPI\DiplomAPI\bin\Microsoft.AI.WindowsServer.dll
+D:\C sharp projects\joyTest\joyEgine\DiplomAPI\DiplomAPI\bin\Microsoft.ApplicationInsights.dll
+D:\C sharp projects\joyTest\joyEgine\DiplomAPI\DiplomAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\C sharp projects\joyTest\joyEgine\DiplomAPI\DiplomAPI\bin\Microsoft.Web.Infrastructure.dll
+D:\C sharp projects\joyTest\joyEgine\DiplomAPI\DiplomAPI\bin\Newtonsoft.Json.dll
+D:\C sharp projects\joyTest\joyEgine\DiplomAPI\DiplomAPI\bin\System.Net.Http.Formatting.dll
+D:\C sharp projects\joyTest\joyEgine\DiplomAPI\DiplomAPI\bin\System.Web.Helpers.dll
+D:\C sharp projects\joyTest\joyEgine\DiplomAPI\DiplomAPI\bin\System.Web.Http.dll
+D:\C sharp projects\joyTest\joyEgine\DiplomAPI\DiplomAPI\bin\System.Web.Http.WebHost.dll
+D:\C sharp projects\joyTest\joyEgine\DiplomAPI\DiplomAPI\bin\System.Web.Mvc.dll
+D:\C sharp projects\joyTest\joyEgine\DiplomAPI\DiplomAPI\bin\System.Web.Optimization.dll
+D:\C sharp projects\joyTest\joyEgine\DiplomAPI\DiplomAPI\bin\System.Web.Razor.dll
+D:\C sharp projects\joyTest\joyEgine\DiplomAPI\DiplomAPI\bin\System.Web.WebPages.Deployment.dll
+D:\C sharp projects\joyTest\joyEgine\DiplomAPI\DiplomAPI\bin\System.Web.WebPages.dll
+D:\C sharp projects\joyTest\joyEgine\DiplomAPI\DiplomAPI\bin\System.Web.WebPages.Razor.dll
+D:\C sharp projects\joyTest\joyEgine\DiplomAPI\DiplomAPI\bin\WebGrease.dll
+D:\C sharp projects\joyTest\joyEgine\DiplomAPI\DiplomAPI\bin\Microsoft.AI.DependencyCollector.xml
+D:\C sharp projects\joyTest\joyEgine\DiplomAPI\DiplomAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\C sharp projects\joyTest\joyEgine\DiplomAPI\DiplomAPI\bin\Microsoft.AI.Web.xml
+D:\C sharp projects\joyTest\joyEgine\DiplomAPI\DiplomAPI\bin\Microsoft.AI.WindowsServer.xml
+D:\C sharp projects\joyTest\joyEgine\DiplomAPI\DiplomAPI\bin\Microsoft.ApplicationInsights.xml
+D:\C sharp projects\joyTest\joyEgine\DiplomAPI\DiplomAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\C sharp projects\joyTest\joyEgine\DiplomAPI\DiplomAPI\bin\Newtonsoft.Json.xml
+D:\C sharp projects\joyTest\joyEgine\DiplomAPI\DiplomAPI\bin\System.Net.Http.Formatting.xml
+D:\C sharp projects\joyTest\joyEgine\DiplomAPI\DiplomAPI\bin\System.Web.Helpers.xml
+D:\C sharp projects\joyTest\joyEgine\DiplomAPI\DiplomAPI\bin\System.Web.Http.xml
+D:\C sharp projects\joyTest\joyEgine\DiplomAPI\DiplomAPI\bin\System.Web.Http.WebHost.xml
+D:\C sharp projects\joyTest\joyEgine\DiplomAPI\DiplomAPI\bin\System.Web.Mvc.xml
+D:\C sharp projects\joyTest\joyEgine\DiplomAPI\DiplomAPI\bin\System.Web.Optimization.xml
+D:\C sharp projects\joyTest\joyEgine\DiplomAPI\DiplomAPI\bin\System.Web.Razor.xml
+D:\C sharp projects\joyTest\joyEgine\DiplomAPI\DiplomAPI\bin\System.Web.WebPages.xml
+D:\C sharp projects\joyTest\joyEgine\DiplomAPI\DiplomAPI\bin\System.Web.WebPages.Deployment.xml
+D:\C sharp projects\joyTest\joyEgine\DiplomAPI\DiplomAPI\bin\System.Web.WebPages.Razor.xml
+D:\C sharp projects\joyTest\joyEgine\DiplomAPI\DiplomAPI\bin\Antlr3.Runtime.pdb
+D:\C sharp projects\joyTest\joyEgine\DiplomAPI\DiplomAPI\obj\Debug\DiplomAPI.csprojResolveAssemblyReference.cache
+D:\C sharp projects\joyTest\joyEgine\DiplomAPI\DiplomAPI\obj\Debug\DiplomAPI.dll
+D:\C sharp projects\joyTest\joyEgine\DiplomAPI\DiplomAPI\obj\Debug\DiplomAPI.pdb
