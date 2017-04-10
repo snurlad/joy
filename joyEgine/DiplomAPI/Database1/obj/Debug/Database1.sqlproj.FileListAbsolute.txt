@@ -1,0 +1,9 @@
+D:\C sharp projects\joyTest\joyEgine\DiplomAPI\Database1\bin\Debug\Database1.dacpac
+D:\C sharp projects\joyTest\joyEgine\DiplomAPI\Database1\bin\Debug\Database1.dll
+D:\C sharp projects\joyTest\joyEgine\DiplomAPI\Database1\bin\Debug\Database1.pdb
+D:\C sharp projects\joyTest\joyEgine\DiplomAPI\Database1\obj\Debug\Model.xml
+D:\C sharp projects\joyTest\joyEgine\DiplomAPI\Database1\obj\Debug\refactor.xml
+D:\C sharp projects\joyTest\joyEgine\DiplomAPI\Database1\obj\Debug\postdeploy.sql
+D:\C sharp projects\joyTest\joyEgine\DiplomAPI\Database1\obj\Debug\predeploy.sql
+D:\C sharp projects\joyTest\joyEgine\DiplomAPI\Database1\obj\Debug\Database1.dll
+D:\C sharp projects\joyTest\joyEgine\DiplomAPI\Database1\obj\Debug\Database1.pdb

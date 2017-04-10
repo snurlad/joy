@@ -18,7 +18,12 @@ namespace DiplomAPI.Controllers
         // GET api/values/5
         public string Get(int id)
         {
-            return "value";
+            return "as";
+        }
+
+        public IEnumerable<string> Get(int id1, int id2)
+        {
+            return new string[] { "ss", "ss" };
         }
 
         // POST api/values

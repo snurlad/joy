@@ -1,4 +1,5 @@
-﻿angular.module('DiplomApp').controller('MainController', MainController);
+﻿"use strict";
+angular.module('DiplomApp').controller('MainController', MainController);
 
 MainController.$inject = ['$scope', '$http'];
 
@@ -12,9 +13,17 @@ function MainController($scope, $http) {
 
 
     function init() {
-        $http.get('/api/DiplomAPI/Values');
-        $http.get('/api/DiplomAPI/api/Values');
-        $http.get('/api/api/Values');
-        $http.get('/api/Values');
+        $http.get('/api/api/Values').then(r => {
+            console.log(3)
+        });
+        $http.get('/api/api/Values', { params: { id: 1 } }).then(r => {
+            console.log(3)
+        });
+        $http.get('/api/api/Values', { params: { id1: 1, id2: 2 } }).then(r => {
+            console.log(3)
+        });
     }
 }
+
+
+
